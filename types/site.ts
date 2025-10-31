@@ -1,7 +1,6 @@
 export interface SiteConfig {
   basic: {
     title: string
-    name: string
     description: string
     keywords: string
   }
