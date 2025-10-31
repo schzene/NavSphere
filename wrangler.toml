@@ -8,6 +8,6 @@ GITHUB_CLIENT_ID = "Ov23lihHL7Hgylqdatiu"
 GITHUB_OWNER = "schzene"
 GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://web.0xc0de.top//api/auth"
+NEXTAUTH_URL = "https://web.0xc0de.top/api/auth"
 NEXT_PUBLIC_API_URL="https://web.0xc0de.top/"
 
