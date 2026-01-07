@@ -4,12 +4,6 @@ const nextConfig = {
   output: 'standalone',
   
   images: {
-    domains: [
-      'dash.cloudflare.com',
-      'www.google.com',
-      'ph-static.imgix.net',
-      'app.leonardo.ai'
-    ],
     remotePatterns: [
       {
         protocol: 'https',

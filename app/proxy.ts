@@ -1,7 +1,7 @@
 import { NextResponse } from 'next/server'
 import type { NextRequest } from 'next/server'
 
-export function middleware(request: NextRequest) {
+export function proxy(request: NextRequest) {
   // 检查是否访问后台路径
   if (request.nextUrl.pathname.startsWith('/admin')) {
     // TODO: 添加身份验证逻辑
