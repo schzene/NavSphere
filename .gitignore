@@ -36,6 +36,7 @@ yarn-error.log*
 next-env.d.ts
 
 # 环境变量
+.env
 .env*.local
 /.cloudflare/
 # Webpack 缓存
