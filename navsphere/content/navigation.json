@@ -208,6 +208,14 @@
               "description": "Grok is a free AI assistant designed by xAI to maximize truth and objectivity. Grok offers real-time search, image generation, trend analysis, and more.",
               "icon": "/assets/favicon_1759046289851.png",
               "enabled": true
+            },
+            {
+              "id": "site_1772617435792_jjrw7gr4x",
+              "title": "OpenClaw — Personal AI Assistant",
+              "href": "https://openclaw.ai/",
+              "description": "OpenClaw — The AI that actually does things. Your personal assistant on any platform.",
+              "icon": "/assets/favicon_1772617430876.svg",
+              "enabled": true
             }
           ]
         },
